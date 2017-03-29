@@ -22,7 +22,7 @@ docker环境搭建:
 进入之后需要apt-get update,然后安装必要的工具
 ```
 编译工具安装:  
-https://github.com/openthos/openthos/wiki/Establishing-a-Build-Environment%28lollipop-x86%29  
+https://github.com/eva980636/learning/blob/master/Establishing%20a%20Build%20Environment%28lollipop%20x86%29.md 
 
 将自己安装的软件打包到镜像中:
 ```
